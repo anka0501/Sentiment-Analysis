@@ -2,8 +2,8 @@ This research aims to develop a highly accurate model for sentiment analysis of 
 
 ## Motivation
 
-**Understanding public opinion:** Sentiment analysis allows us to track how people react to events, products, brands, or politicians.
-**Supporting business decisions:** Companies can use the results of the analysis to optimize their marketing activities, customer service, and product development.
+**Understanding public opinion:** Sentiment analysis allows us to track how people react to events, products, brands, or politicians. <br>
+**Supporting business decisions:** Companies can use the results of the analysis to optimize their marketing activities, customer service, and product development. <br>
 **Scientific research:** Sentiment analysis models find applications in many fields of science, such as sociology, psychology, and linguistics.
 
 ## Twitter Sentiment Analysis Dataset
