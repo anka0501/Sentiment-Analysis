@@ -1,3 +1,5 @@
+# Twitter Sentiment Analysis
+
 This research aims to develop a highly accurate model for sentiment analysis of tweets. The successful development of such a model has the potential to provide valuable insights across various domains, including brand monitoring, market research, crisis management, and political analysis.
 
 ## Motivation
@@ -6,6 +8,6 @@ This research aims to develop a highly accurate model for sentiment analysis of 
 **Supporting business decisions:** Companies can use the results of the analysis to optimize their marketing activities, customer service, and product development. <br>
 **Scientific research:** Sentiment analysis models find applications in many fields of science, such as sociology, psychology, and linguistics.
 
-## Twitter Sentiment Analysis Dataset
+## Dataset
 
 This is an entity-level sentiment analysis dataset of twitter. Given a message and an entity, the task is to judge the sentiment of the message about the entity. There are three classes in this dataset: Positive, Negative, Neutral and Irrelevant. 
